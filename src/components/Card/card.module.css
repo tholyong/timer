@@ -1,0 +1,13 @@
+.card {
+  background-color: grey;
+  padding: 10px 0;
+}
+
+.content {
+  font-size: 20px;
+}
+
+.url {
+  text-decoration: none;
+  text-transform: uppercase;
+}
